@@ -1,32 +1,3 @@
-// import './hero.scss'
-
-// const Hero = () => {
-//   return (
-//     <div className="hero">
-//         <div className="wrapper">
-//         <div className="textContainer">
-//             <h2>SACHIN AGGARWAL</h2>
-//             <h1>WEB DEVLOPER AND DEVOPS ENGINEER</h1>
-//             <div className="buttons">
-//                 <button>See My Work</button>
-//                 <button>Contact Me</button>
-//             </div>
-//             <img src="./scroll.png" alt="" />
-//         </div>
-//         </div>
-//         <div className="slidingTextConatiner">
-//         DEVOPS ENGINEER CRCIKET OBSERVER
-//         </div>
-//         <div className="imgContainer">
-//             <img src="./myImg.png" alt="" />
-//         </div>
-//     </div>
-//   )
-// }
-
-// export default Hero
-
-
 import "./hero.scss";
 import { motion } from "framer-motion";
 
